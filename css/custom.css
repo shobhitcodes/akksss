@@ -41,3 +41,12 @@
 	top: 300px;
 	height: 150px;
 }
+
+.site-blocks-cover.overlay.s-notify:before {
+	background: unset !important; 
+}
+
+.site-blocks-cover.overlay:before {
+     background: unset !important; 
+}
+
